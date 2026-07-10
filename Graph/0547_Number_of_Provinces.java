@@ -6,8 +6,8 @@
  *
  * Approach: DFS traversal
  *
- * Time Complexity: 
- * Space Complexity: 
+ * Time Complexity: O(V+E)
+ * Space Complexity: O(N)
  */
 
 class Solution {
