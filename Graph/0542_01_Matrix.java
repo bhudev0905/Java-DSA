@@ -1,3 +1,15 @@
+/*
+ * Problem: 542. 01 Matrix
+ * Difficulty: Medium
+ * Topic: Principal, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
+ * Link: https://leetcode.com/problems/01-matrix/description/
+ *
+ * Approach: BFS traversal
+ *
+ * Time Complexity: O(M*N)
+ * Space Complexity: O(M*N)
+ */
+
 class Solution {
     public int[][] updateMatrix(int[][] mat) {
         int m = mat.length;
