@@ -51,7 +51,6 @@ Java-DSA/
 ## 🎯 Topics Covered
 
 - ✅ Binary Trees
-- ✅ Graphs
 
 More topics will be added as I continue learning.
 
