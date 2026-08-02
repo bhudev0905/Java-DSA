@@ -1,7 +1,7 @@
 /*
  * Problem: 81. Search in Rotated Sorted Array II
  * Difficulty: Medium
- * Topic: Principal, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
+ * Topic: Binary Search
  * Link: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
  *
  * Approach: Modified Binary Search
