@@ -32,6 +32,7 @@ The goal of this repository is to:
 ```
 Java-DSA/
 │
+├── Binary_Search/
 ├── Binary_Trees/
 ├── Graph/
 ├── .gitignore
@@ -48,13 +49,6 @@ Java-DSA/
 
 ---
 
-## 🎯 Topics Covered
-
-- ✅ Binary Trees
-
-More topics will be added as I continue learning.
-
----
 
 ## 📈 Progress
 
@@ -62,6 +56,7 @@ More topics will be added as I continue learning.
 |--------|--------|
 | Binary Trees | ⏳ |
 | Graphs | ⏳ |
+| Binary Search | ⏳ |
 
 ---
 
